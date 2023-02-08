@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firatyildirim85&label=Profile%20views&color=0e75b6&style=flat" alt="firatyildirim" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 💬 Ask me about **HTML, CSS, JavaScript & Angular**
 
 - 👨‍💻 All of my projects are available at [firat-yildirim.de](firat-yildirim.de)
 
-- 💬 Ask me about **HTML, CSS & JavaScript**
+
 
 - 📫 How to reach me **contact@firat-yildirim.de**
 
